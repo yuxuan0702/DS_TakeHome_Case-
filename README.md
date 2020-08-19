@@ -6,4 +6,12 @@ Answers for Take Home Data Science Cases
 Python 
 
 # Output 
-[🔗Notion_Page](https://www.notion.so/50a889feb83f40d7aa252ccc32442a8c?v=2a92a4d412d64bcaaff2fc2ce187c25c)
+[🔗Conversion Rate](https://www.notion.so/Conversion-Rate-2de5820c79134b3a811478defa99c1b5)
+
+[🔗Retention Rate](https://www.notion.so/Employee-Retention-f81c05174cf84c0183e371f6bdf8d068)
+
+[🔗Spanish A/B Test](https://www.notion.so/Spanish-Translation-A-B-Test-854200e791d1490fb2ef82827f162c98)
+
+[🔗Identifying Fradulent Test](https://www.notion.so/Identifying-Fraudulent-Activities-073314ca04a84626938442f531702629)
+
+[🔗Funnel Analysis](https://www.notion.so/Funnel-Analysis-519412930ee5452f8398182115f464a9)
