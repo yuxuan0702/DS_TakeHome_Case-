@@ -15,3 +15,5 @@ Python
 [🔗Identifying Fradulent Test](https://www.notion.so/Identifying-Fraudulent-Activities-073314ca04a84626938442f531702629)
 
 [🔗Funnel Analysis](https://www.notion.so/Funnel-Analysis-519412930ee5452f8398182115f464a9)
+
+[🔗Email Campaign Analysis](https://www.notion.so/Marketing-Email-Campaign-c7b85e707c2441e8ab06e0e2780b1343)
