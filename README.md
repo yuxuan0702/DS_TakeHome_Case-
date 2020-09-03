@@ -17,3 +17,5 @@ Python
 [🔗Funnel Analysis](https://www.notion.so/Funnel-Analysis-519412930ee5452f8398182115f464a9)
 
 [🔗Email Campaign Analysis](https://www.notion.so/Marketing-Email-Campaign-c7b85e707c2441e8ab06e0e2780b1343)
+
+[🔗Song Chanllenge](https://www.notion.so/Song-Challenge-5475e4879b634927a7ef490ec4273f94)
