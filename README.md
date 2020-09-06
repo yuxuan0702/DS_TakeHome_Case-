@@ -19,3 +19,5 @@ Python
 [🔗Email Campaign Analysis](https://www.notion.so/Marketing-Email-Campaign-c7b85e707c2441e8ab06e0e2780b1343)
 
 [🔗Song Chanllenge](https://www.notion.so/Song-Challenge-5475e4879b634927a7ef490ec4273f94)
+
+[🔗Clustering Grocery Items](https://www.notion.so/Clustering-Grocery-Items-2f9f6a6e132c402b8369f66235e8f769)
