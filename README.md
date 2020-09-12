@@ -23,3 +23,5 @@ Python
 [🔗Clustering Grocery Items](https://www.notion.so/Clustering-Grocery-Items-2f9f6a6e132c402b8369f66235e8f769)
 
 [🔗Refer Analysis](https://www.notion.so/User-Referral-Program-f5f470ffaa99494089762937a99a38a2)
+
+[🔗Diversity in the WorkPlace](https://www.notion.so/Diversity-in-the-Workplace-1210c65c7a87401c93053053f70752d3)
