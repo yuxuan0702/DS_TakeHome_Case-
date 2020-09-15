@@ -25,3 +25,5 @@ Python
 [🔗Refer Analysis](https://www.notion.so/User-Referral-Program-f5f470ffaa99494089762937a99a38a2)
 
 [🔗Diversity in the WorkPlace](https://www.notion.so/Diversity-in-the-Workplace-1210c65c7a87401c93053053f70752d3)
+
+[🔗Subscription Retention Rate](https://www.notion.so/Subscription-Retention-Rate-14814ad6a44e4ce3932d6977b22ae6d2)
