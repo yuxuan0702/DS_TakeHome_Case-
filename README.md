@@ -27,3 +27,5 @@ Python
 [🔗Diversity in the WorkPlace](https://www.notion.so/Diversity-in-the-Workplace-1210c65c7a87401c93053053f70752d3)
 
 [🔗Subscription Retention Rate](https://www.notion.so/Subscription-Retention-Rate-14814ad6a44e4ce3932d6977b22ae6d2)
+
+[🔗Ads Analysis](https://www.notion.so/Ads-Analysis-7540f43e5db146a8ab788451b3fdda82)
