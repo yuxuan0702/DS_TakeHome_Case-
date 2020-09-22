@@ -31,4 +31,4 @@ Python
 [🔗Ads Analysis](https://www.notion.so/Ads-Analysis-7540f43e5db146a8ab788451b3fdda82)
 
 
-[🔗Online Video Challenge]（https://www.notion.so/Online-Video-Challenge-981fce23645b422ba928eececa17dfbb）
+[🔗Online Video Challenge](https://www.notion.so/Online-Video-Challenge-981fce23645b422ba928eececa17dfbb)
