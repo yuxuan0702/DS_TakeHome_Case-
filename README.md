@@ -29,3 +29,6 @@ Python
 [🔗Subscription Retention Rate](https://www.notion.so/Subscription-Retention-Rate-14814ad6a44e4ce3932d6977b22ae6d2)
 
 [🔗Ads Analysis](https://www.notion.so/Ads-Analysis-7540f43e5db146a8ab788451b3fdda82)
+
+
+[🔗Online Video Challenge]（https://www.notion.so/Online-Video-Challenge-981fce23645b422ba928eececa17dfbb）
